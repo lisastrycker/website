@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>https://lisastrycker.github.io/website/</link>
+    <atom:link href="https://lisastrycker.github.io/website/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to The Lisa Blog</title>
+      <dc:creator>Lisa Strycker</dc:creator>
+      <link>https://lisastrycker.github.io/website/posts/welcome</link>
+      <description>Welcome to this new blog. I hope you enjoy 
+reading it!</description>
+      <guid>https://lisastrycker.github.io/website/posts/welcome</guid>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Amazing Post</title>
+      <dc:creator>Lisa Strycker</dc:creator>
+      <link>https://lisastrycker.github.io/website/posts/2020-02-25-my-amazing-post</link>
+      <description>This is the most amazing post ever.</description>
+      <guid>https://lisastrycker.github.io/website/posts/2020-02-25-my-amazing-post</guid>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <dc:creator>Lisa Strycker</dc:creator>
+      <link>https://lisastrycker.github.io/website/posts/2020-02-25-post-3</link>
+      <description>The third post on this blog has a graphic element.</description>
+      <guid>https://lisastrycker.github.io/website/posts/2020-02-25-post-3</guid>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

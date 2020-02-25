@@ -5,7 +5,7 @@ description: |
   reading it!
 author:
   - name: Lisa Strycker
-    url: https://example.com/norajones
+    url: https://lisastrycker.github.io/website/
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
 date: 02-25-2020

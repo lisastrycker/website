@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://lisastrycker.github.io/website/about.html</loc>
+    <lastmod>2020-02-25T11:48:22-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lisastrycker.github.io/website/</loc>
+    <lastmod>2020-02-25T11:48:21-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lisastrycker.github.io/website/posts/welcome/</loc>
+    <lastmod>2020-02-25T12:12:18-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lisastrycker.github.io/website/posts/2020-02-25-my-amazing-post/</loc>
+    <lastmod>2020-02-25T13:58:29-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lisastrycker.github.io/website/posts/2020-02-25-post-3/</loc>
+    <lastmod>2020-02-25T14:08:07-08:00</lastmod>
+  </url>
+</urlset>
