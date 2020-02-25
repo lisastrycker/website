@@ -43,8 +43,10 @@
     ],
     "date": "2020-02-25",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-02-25T14:08:07-08:00",
-    "input_file": "post-3.utf8.md"
+    "preview": "posts/2020-02-25-post-3/post-3_files/figure-html5/setup-1.png",
+    "last_modified": "2020-02-25T14:10:17-08:00",
+    "input_file": "post-3.utf8.md",
+    "preview_width": 1248,
+    "preview_height": 768
   }
 ]
