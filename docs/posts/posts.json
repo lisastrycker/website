@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-02-25T12:12:18-08:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2020-02-25-my-amazing-post/",
+    "title": "My Amazing Post",
+    "description": "This is the most amazing post ever.",
+    "author": [
+      {
+        "name": "Lisa Strycker",
+        "url": "https://lisastrycker.github.io/website/"
+      }
+    ],
+    "date": "2020-02-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-25T13:58:29-08:00",
+    "input_file": "my-amazing-post.utf8.md"
   }
 ]

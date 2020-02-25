@@ -1,0 +1,21 @@
+---
+title: "My Amazing Post"
+description: |
+  This is the most amazing post ever.
+author:
+  - name: Lisa Strycker
+    url: https://lisastrycker.github.io/website/
+date: 02-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
